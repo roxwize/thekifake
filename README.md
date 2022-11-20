@@ -8,6 +8,7 @@ These include markup languages aswell
 - JavaScript
 - Markdown
 - Lua
+- Ruby
 - APL (sorta)
 - C++ (sorta)
 
