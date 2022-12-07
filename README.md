@@ -14,6 +14,9 @@ These include markup languages aswell
 
 # Languages I want to know
 
+- Java
+- Lisp
+- Raku
 - CoffeeScript
 - SCSS
 - C#
