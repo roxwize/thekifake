@@ -28,3 +28,13 @@ I would not consider 6502 ASM to be a "language" that you can "learn" ( as it is
 - Rust
 - Kotlin
 - Python
+
+## kdjskghlskdfjgsfdfhldjfgh
+
+```
+                   _____________
+.::::...::::.    /               \
+ ( o) | ( o)    <  hi im mary     |
+      >          \ ______________/
+ ___________
+```
