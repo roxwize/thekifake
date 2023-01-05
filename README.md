@@ -3,16 +3,18 @@ Hi i'm theki. I like to write code because the things i create amuse me. Most of
 # Languages i know
 These include markup languages aswell
 
-- HTML
-- CSS
-- JavaScript
-- Markdown
-- Lua
-- Ruby
-- Java
-- APL (sorta)
-- C++ (sorta)
-- Clojure (sorta)
+| Language | Level |
+| :------- | ----: |
+| HTML | Expert |
+| CSS | Advanced |
+| JavaScript | Expert |
+| Markdown | Expert |
+| Lua | Advanced |
+| Ruby | Advanced |
+| Java | Intermediate |
+| APL | Beginner |
+| C++ | Intermediate |
+| Clojure | Beginner |
 
 I would not consider 6502 ASM to be a "language" that you can "learn" ( as it is dead simple ) but I do know my way around the 6502 and its respective assembly language.
 
