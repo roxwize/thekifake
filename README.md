@@ -9,12 +9,13 @@ These include markup languages aswell
 - Markdown
 - Lua
 - Ruby
+- Java
 - APL (sorta)
 - C++ (sorta)
+- Clojure (sorta)
 
 # Languages I want to know
 
-- Java
 - Lisp
 - Raku
 - CoffeeScript
@@ -22,3 +23,4 @@ These include markup languages aswell
 - C#
 - Rust
 - Kotlin
+- Python
