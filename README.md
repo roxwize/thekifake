@@ -6,14 +6,14 @@ These include markup languages aswell
 | Language | Level |
 | :------- | ----: |
 | HTML | Expert |
-| CSS | Advanced |
 | JavaScript | Expert |
-| Markdown | Expert |
+| CSS | Advanced |
 | Lua | Advanced |
 | Ruby | Advanced |
+| C++ | Intermediate |
 | Java | Intermediate |
 | APL | Beginner |
-| C++ | Intermediate |
+| C# | Beginner |
 | Clojure | Beginner |
 
 I would not consider 6502 ASM to be a "language" that you can "learn" ( as it is dead simple ) but I do know my way around the 6502 and its respective assembly language.
@@ -24,7 +24,6 @@ I would not consider 6502 ASM to be a "language" that you can "learn" ( as it is
 - Raku
 - CoffeeScript
 - SCSS
-- C#
 - Rust
 - Kotlin
 - Python
