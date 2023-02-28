@@ -11,6 +11,7 @@ These include markup languages aswell
 | Lua | Advanced |
 | Ruby | Advanced |
 | C++ | Intermediate |
+| Go | Intermediate |
 | Java | Intermediate |
 | APL | Beginner |
 | C# | Beginner |
