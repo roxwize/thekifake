@@ -16,6 +16,7 @@ These include markup languages aswell
 | Java | Intermediate |
 | APL | Beginner 
 | Clojure | Beginner |
+| Sass | Beginner |
 
 I would not consider 6502 ASM to be a "language" that you can "learn" ( as it is dead simple ) but I do know my way around the 6502 and its respective assembly language.
 
@@ -24,7 +25,6 @@ I would not consider 6502 ASM to be a "language" that you can "learn" ( as it is
 - Lisp
 - Raku
 - CoffeeScript
-- SCSS
 - Rust
 - Kotlin
 - Python
