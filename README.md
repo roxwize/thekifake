@@ -10,11 +10,11 @@ These include markup languages aswell
 | CSS | Advanced |
 | Lua | Advanced |
 | Ruby | Advanced |
+| C# | Intermediate |
 | C++ | Intermediate |
 | Go | Intermediate |
 | Java | Intermediate |
-| APL | Beginner |
-| C# | Beginner |
+| APL | Beginner 
 | Clojure | Beginner |
 
 I would not consider 6502 ASM to be a "language" that you can "learn" ( as it is dead simple ) but I do know my way around the 6502 and its respective assembly language.
