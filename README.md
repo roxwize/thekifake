@@ -1,3 +1,5 @@
+[![](https://github-readme-stats.vercel.app/api?username=thekifake&theme=radical&show=reviews)](https://github.com/thekifake/thekifake)
+
 Hi i'm theki. I like to write code because the things i create amuse me. Most of my repositories are solo projects where I'm the only contributor.
 
 # Languages i know
