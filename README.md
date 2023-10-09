@@ -9,7 +9,7 @@ Sorted from most experienced to least experienced, probably
 - JavaScript
 - Lua
 - C#
-- [Uiua](https://uiua.org/)
+- [Uiua](https://www.uiua.org/)
 - Java
 - Go
 - Ruby
