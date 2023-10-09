@@ -2,10 +2,9 @@
 
 Hi i'm theki. I like to write code because the things i create amuse me. Most of my repositories are solo projects where I'm the only contributor.
 
-# Languages i know
+# Programming languages i know
 Sorted from most experienced to least experienced, probably
 
-- HTML
 - JavaScript
 - Lua
 - C#
