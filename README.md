@@ -3,22 +3,17 @@
 Hi i'm theki. I like to write code because the things i create amuse me. Most of my repositories are solo projects where I'm the only contributor.
 
 # Languages i know
-These include markup languages aswell
+Sorted from most experienced to least experienced, probably
 
-| Language | Level |
-| :------- | ----: |
-| HTML | Expert |
-| JavaScript | Expert |
-| CSS | Advanced |
-| Lua | Advanced |
-| Ruby | Advanced |
-| C# | Intermediate |
-| C++ | Intermediate |
-| Go | Intermediate |
-| Java | Intermediate |
-| APL | Beginner 
-| Clojure | Beginner |
-| Sass | Beginner |
+- HTML
+- JavaScript
+- Lua
+- C#
+- [Uiua](https://uiua.org/)
+- Java
+- Go
+- Ruby
+- C++
 
 I would not consider 6502 ASM to be a "language" that you can "learn" ( as it is dead simple ) but I do know my way around the 6502 and its respective assembly language.
 
